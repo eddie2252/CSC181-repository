@@ -12,31 +12,31 @@
 Attendees who watch the parade and performances during Diyandi.
 
 **Why might this group need support during Diyandi?**  
-They stand in big crowds for hours in the heat, and belongings get lost easily.
+They stand in big, moving crowds for hours, so belongings are easy to lose.
 
 ---
 
 ## 2. Situation or need
 
 **What is this group trying to do during Diyandi?**  
-Get a lost item back quickly. They need to know where to report it and where to check if it was found.
+Get a lost item back quickly, which means knowing where to report it and where to check for it.
 
 ---
 
 ## 3. Problem or inconvenience
 
 **What may make this task difficult, confusing, unsafe, slow, or inconvenient?**  
-There is no obvious place to report a lost item or check for one. A relative's wallet went missing during Diyandi. We could not find a lost-and-found table, so we went to the police, and the wallet was not recovered. I assume the officers were busy with the event, but I don't know that. I also saw Facebook posts and heard from friends about missing items, which is secondhand. I assume those posts get buried in the feed.
+There is no obvious place to report a lost item or check for one. A relative's wallet went missing during Diyandi. We could not find a lost-and-found table, so we went to the police, and the wallet was not recovered. I also saw Facebook posts and heard from friends about missing items, which is secondhand. I assume those posts get buried in the feed.
 
 ---
 
 ## 4. Proposed digital solution
 
 **What digital tool would you propose?**  
-A lost-and-found system run by the event organizers and volunteers. Help tables would be announced ahead of time and placed in buildings with wifi. All tables would share one linked list, so an item turned in at one table can be checked at another.
+A simple website that volunteers use on a laptop or tablet at each help table, run by the event organizers. Tables would be announced ahead and placed in buildings with wifi. All tables share one list, so an item turned in at one can be checked at another.
 
 **How would it help the intended users?**  
-Attendees get one known place to go instead of the police or a Facebook post. They can leave, and an organizer calls or texts them when a match is found. I assume the organizers and volunteers would run this and could provide a working connection at the tables. I have not asked them.
+Attendees get one known place to go instead of the police or a Facebook post. An organizer calls or texts them when a match is found. Volunteers do the searching, so seniors and people with basic phones can use it without data. I assume the organizers and volunteers would run this and could provide the devices and a working connection at the tables. I have not asked them.
 
 ---
 
@@ -62,7 +62,7 @@ I had no mobile network during the highlights of Diyandi, and I assume many atte
 ### Quality 2: Privacy
 
 **Why does this matter to users?**  
-A phone number and a description of a lost belonging are personal. Only the event organizers can see the phone numbers, and they use them only to contact the owner about a match. Numbers would be deleted after the festival.
+Attendees will only leave a phone number if they trust it stays private. Only the event organizers can see the numbers, and they use them only to contact the owner about a match. Numbers would be deleted after the festival.
 
 ---
 
@@ -70,7 +70,7 @@ A phone number and a description of a lost belonging are personal. Only the even
 
 How could you determine whether your proposed solution actually helped users?
 
-I would count how many reported lost items get matched and returned, and how long an attendee waits at a table. I would also ask attendees who used a table if it was easy to find and if it helped.
+I would count how many reported lost items get matched and returned, and how long an attendee waits at a table. I would set a target beforehand, such as matching half of the reported items. I would also ask attendees if it helped.
 
 ---
 
@@ -88,7 +88,7 @@ Select **one** option below and complete the applicable details.
 
 - [ ] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
 
-- [/] **AI tools used.** I used the following AI tool(s): Claude
+- [x] **AI tools used.** I used the following AI tool(s): Claude
 
   **Purpose of use:**  
   I used cladue to ask me guiding question about my own idea about this assignment, point out weak assumption in my reasoning, organize my answer into the eight section.
